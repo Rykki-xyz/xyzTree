@@ -1,7 +1,7 @@
 # xyzTree
 A free &amp; open source Linktr.ee alternative/clone written in HTML &amp; CSS!
 
-<a href="https://demo.rykki.xyz"DEMO </a>
+<a href="https://demo.rykki.xyz">DEMO</a>
 
 <table style="border-collapse: collapse; width: 79.2495%; height: 234px;" border="1">
 <tbody>
