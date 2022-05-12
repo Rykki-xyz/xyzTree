@@ -1,0 +1,89 @@
+body {
+background-color: #000000;
+background-image: url("assets/bg.gif");
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+font-family: 'Open Sans', sans-serif;
+font-size: 15px;
+letter-spacing: 2px;
+}
+img {
+border-radius: 100%;
+}
+.profile-picture {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+height: auto;
+padding: 20px;
+max-width: 100px;;
+}
+.profile-name {
+color: white;
+text-shadow: 2px 2px 5px black;
+text-transform: uppercase;  
+font-weight: bold;
+font-size: 20px;
+text-align: center;
+padding: 10px;
+}
+.links {
+background-color: rgba(0, 0, 0, .4);
+text-align: center;
+margin-top: 20px;
+padding: 20px;
+border: 1px solid rgba(105, 105, 105, .4);
+border-width: 1px;
+width: 290px;
+display: block;   
+margin-left: auto;
+margin-right: auto;
+border-radius: 0px;
+}
+a {
+text-decoration: none;
+color: white; 
+transition: color 1s;
+}
+.bottom-text {
+text-align: center;
+color: white;
+text-shadow: 2px 2px 5px black;  
+text-transform: uppercase;  
+margin-top: 40px;
+font-size: 20px;
+font-weight: bold;
+}
+a:hover {
+color: #ffffff;
+background: rgba(105, 105, 105, .4);
+text-shadow: 2px 2px 5px #ffffff;  
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-twitter {
+  background: #000000;
+  color: white;
+}
+.fa-instagram {
+  background: #000000;
+  color: white;
+}
+  .fa-google {
+  background: #000000;
+  color: white;
+}
+
